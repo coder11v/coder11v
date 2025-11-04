@@ -9,12 +9,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/coder11v/images@main/generated-icon.png" alt="Veer Logo" width="85" style="border-radius: 50%;"/>
 
-### <span style="background: linear-gradient(to right, #00bcd4, #1ec88f); -webkit-background-clip: text; color: transparent;">Veer Bajaj</span>
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&duration=2500&pause=800&color=00BCD4&center=true&vCenter=true&width=350&lines=Hi%2C+I'm+Veer!;I+build+cool+things.;I+turn+ideas+into+code.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing intro">
+### 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&duration=2500&pause=800&color=00BCD4&center=true&vCenter=true&width=350&lines=Hi%2C+I'm+coder11v!;I+build+cool+things.;I+turn+ideas+into+code.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing intro">
 
 Aspiring Developer • Tech Enthusiast • Creative Thinker  
-🌐 [**veerbajaj.com**](https://veerbajaj.com)  
+
 🖥️ Building with Python | 🎧 Music Maker | 🎮 Gamer  
 
 ---
@@ -28,7 +27,7 @@ I love turning complex problems into simple, elegant solutions.”
 
 ### 💬 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1353520419214327841?hideBadges=true)](https://discord.com/users/1353520419214327841)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1353520419214327841?hideBadges=false&hideProfile=true)](https://discord.com/users/1353520419214327841)
 
 
 ---
