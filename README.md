@@ -36,11 +36,15 @@ A multi-model comparison platform for LLMs, featuring Flappy Bird generation ben
 
 ### • Banana Ballers  
 A fun, community-driven collection of games + experiments in Python, Godot, and Roblox.  
-[Repo](https://github.com/bananaballers)
+[User](https://github.com/bananaballers)
 
 ### • FRC Team 5171  
 Leading software for an official FRC team: vision, autos, teleop, and robot infrastructure.  
-[Repo](https://github.com/team5171)
+[User](https://github.com/team5171)
+
+### • York Oracle
+Web design for the York Oracle (school newspaper)
+[User](https://github.com/yorkoracle)
 
 
 <div align="center">
