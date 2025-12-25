@@ -1,22 +1,23 @@
-```python
-class coder11v:
-    def __init__(self):
-        self.name = "coder11v"
-        self.role = "FRC 5171 Software Lead"
-        self.current_focus = "Python, Robotics, AI, and cool experiments"
 
-coder11v()
-```
-## Output:
-```
-Generating with coder11v...
-Output ↓
-```
+<div align="center">
 
-# Hi!
------
+<img src="https://cdn.jsdelivr.net/gh/coder11v/images@main/generated-icon.png" alt="Veer Logo" width="85" style="border-radius: 50%;"/>
 
-### **github friends:**  
+### 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&duration=2500&pause=800&color=00BCD4&center=true&vCenter=true&width=350&lines=Hi%2C+I'm+coder11v!;I+build++and+ship+cool+products.;I+turn+ideas+into+code.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing intro">
+
+Aspiring Developer • Tech Enthusiast • Creative Thinker  
+
+🖥️ Building with Python | 🎧 Music Maker | 🎮 Gamer  
+
+---
+
+<blockquote style="border-left: 3px solid #1ec88f; padding-left: 12px; margin: 0; font-style: italic;">
+“I'm a coding whiz kid, always on the hunt for the next big challenge.<br>
+I love turning complex problems into simple, elegant solutions.”
+</blockquote>
+
+### **My Github friends:**  
 [@vedant](https://github.com/vedant) • [@google](https://github.com/google) • [@google-gemini](https://github.com/google-gemini) • [@team5171](https://github.com/team5171) • [@yorkrobotics](https://github.com/yorkrobotics) • [@apple](https://github.com/apple)
 
 
@@ -34,6 +35,8 @@ A URL shortener for GitHub Pages utilizing free database storage via Firestore.
 A multi-model comparison platform for LLMs, featuring Flappy Bird generation benchmarks.  
 [Website](https://contextwindow.veerbajaj.com)
 
+## Organizations
+
 ### • Banana Ballers  
 A fun, community-driven collection of games + experiments in Python, Godot, and Roblox.  
 [User](https://github.com/bananaballers)
@@ -47,29 +50,13 @@ Web design for the York Oracle (school newspaper)
 [User](https://github.com/yorkoracle)
 
 
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/coder11v/images@main/generated-icon.png" alt="Veer Logo" width="85" style="border-radius: 50%;"/>
-
-### 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&duration=2500&pause=800&color=00BCD4&center=true&vCenter=true&width=350&lines=Hi%2C+I'm+coder11v!;I+build+cool+things.;I+turn+ideas+into+code.;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing intro">
-
-Aspiring Developer • Tech Enthusiast • Creative Thinker  
-
-🖥️ Building with Python | 🎧 Music Maker | 🎮 Gamer  
-
----
-
-<blockquote style="border-left: 3px solid #1ec88f; padding-left: 12px; margin: 0; font-style: italic;">
-“I'm a coding whiz kid, always on the hunt for the next big challenge.<br>
-I love turning complex problems into simple, elegant solutions.”
-</blockquote>
 
 ---
 
 ### 💬 What I'm doing now
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1353520419214327841?hideBadges=false&hideProfile=true)](https://discord.com/users/1353520419214327841)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1353520419214327841?hideBadges=false&hideProfile=true)](https://github.com/coder11v)
 
 
 ---
