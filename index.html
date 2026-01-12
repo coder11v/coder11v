@@ -1,1 +1,110 @@
-<div id="markdown-container">Loading...</div>  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <script>   const url = "https://github.com/coder11v/coder11v/raw/refs/heads/main/README.md";    fetch(url)     .then(res => res.text())     .then(md => {       document.getElementById('markdown-container').innerHTML = marked.parse(md);     })     .catch(err => {       document.getElementById('markdown-container').innerText = "Failed to load Markdown.";       console.error(err);     }); </script>  <style>   body {     background-color: #000; /* black background */     color: #fff; /* white text */     margin: 0;     padding: 0;   }    #markdown-container {     font-family: sans-serif;     line-height: 1.6;     max-width: 800px;     margin: 20px auto;     padding: 20px;     background-color: #000; /* ensures container is black */     color: #fff; /* ensures text is white */   }    #markdown-container a {     color: #1E90FF; /* link color, readable on black */   }    #markdown-container img {     max-width: 100%;   }    #markdown-container code {     background-color: #111;     padding: 2px 4px;     border-radius: 4px;     color: #fff;   }    #markdown-container pre {     background-color: #111;     padding: 10px;     border-radius: 6px;     overflow-x: auto;   } </style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub README Viewer</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    #markdown-container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #0d1117;
+      color: #c9d1d9;
+    }
+
+    /* Headings */
+    #markdown-container h1, h2, h3, h4, h5, h6 { color: #f0f6fc; }
+    #markdown-container h1, h2 { border-bottom: 1px solid #30363d; }
+
+    /* Links */
+    #markdown-container a { color: #58a6ff; text-decoration: none; }
+    #markdown-container a:hover { text-decoration: underline; }
+
+    /* Code blocks */
+    #markdown-container pre {
+      background-color: #161b22;
+      padding: 16px;
+      border-radius: 6px;
+      overflow-x: auto;
+    }
+
+    #markdown-container code {
+      background-color: #161b22;
+      padding: 2px 4px;
+      border-radius: 6px;
+      color: #c9d1d9;
+    }
+
+    /* Blockquotes */
+    #markdown-container blockquote {
+      border-left: 4px solid #30363d;
+      padding-left: 16px;
+      color: #8b949e;
+      margin: 0 0 16px 0;
+    }
+
+    /* Lists */
+    #markdown-container ul, #markdown-container ol {
+      padding-left: 2em;
+    }
+
+    /* Tables */
+    #markdown-container table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 16px;
+    }
+
+    #markdown-container th {
+      background-color: #161b22;
+      color: #8b949e;
+      border: 1px solid #30363d;
+      padding: 6px 13px;
+    }
+
+    #markdown-container td {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      padding: 6px 13px;
+    }
+
+    /* Images */
+    #markdown-container img {
+      max-width: 100%;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div id="markdown-container">Loading...</div>
+
+  <script>
+    const url = "https://api.github.com/repos/coder11v/coder11v/contents/README.md";
+
+    fetch(url)
+      .then(res => res.json())
+      .then(data => {
+        // Decode Base64 properly as UTF-8
+        const bytes = Uint8Array.from(atob(data.content), c => c.charCodeAt(0));
+        const md = new TextDecoder("utf-8").decode(bytes);
+
+        // Render Markdown
+        document.getElementById('markdown-container').innerHTML = marked.parse(md);
+      })
+      .catch(err => {
+        document.getElementById('markdown-container').innerText = "Failed to load Markdown.";
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
