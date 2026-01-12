@@ -18,7 +18,45 @@ I love turning complex problems into simple, elegant solutions.”
 </blockquote>
 
 ### **My Github friends:**  
-[@vedant](https://github.com/vedant) • [@google](https://github.com/google) • [@google-gemini](https://github.com/google-gemini) • [@team5171](https://github.com/team5171) • [@yorkrobotics](https://github.com/yorkrobotics) • [@apple](https://github.com/apple)
+
+<div align="center">
+  <a href="https://github.com/apple">
+    <img src="https://github.com/apple.png?s=120" width="60" height="60" title="apple" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="apple"/>
+  </a>
+  <a href="https://github.com/google">
+    <img src="https://github.com/google.png?s=120" width="60" height="60" title="google" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="google"/>
+  </a>
+  <a href="https://github.com/google-gemini">
+    <img src="https://github.com/google-gemini.png?s=120" width="60" height="60" title="google-gemini" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="google-gemini"/>
+  </a>
+  <a href="https://github.com/vercel">
+    <img src="https://github.com/vercel.png?s=120" width="60" height="60" title="vercel" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="vercel"/>
+  </a>
+  <a href="https://github.com/luma-team">
+    <img src="https://github.com/luma-team.png?s=120" width="60" height="60" title="luma-team" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="luma-team"/>
+  </a>
+  <a href="https://github.com/raycast">
+    <img src="https://github.com/raycast.png?s=120" width="60" height="60" title="raycast" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="raycast"/>
+  </a>
+  <a href="https://github.com/mmmmbanana">
+    <img src="https://github.com/mmmmbanana.png?s=120" width="60" height="60" title="mmmmbanana" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="mmmmbanana"/>
+  </a>
+  <a href="https://github.com/MacaroniTaco">
+    <img src="https://github.com/MacaroniTaco.png?s=120" width="60" height="60" title="MacaroniTaco" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="MacaroniTaco"/>
+  </a>
+  <a href="https://github.com/vedant">
+    <img src="https://github.com/vedant.png?s=120" width="60" height="60" title="vedant" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="vedant"/>
+  </a>
+  <a href="https://github.com/kevinsbarnard">
+    <img src="https://github.com/kevinsbarnard.png?s=120" width="60" height="60" title="kevinsbarnard" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="kevinsbarnard"/>
+  </a>
+  <a href="https://github.com/team5171">
+    <img src="https://github.com/team5171.png?s=120" width="60" height="60" title="team5171" style="border-radius: 50%; border: 2px solid #00BCD4; margin: 5px;" alt="team5171"/>
+  </a>
+</div>
+
+
+
 
 
 ## 🚀 Featured Projects
@@ -63,12 +101,13 @@ Web design for the York Oracle (school newspaper)
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/coder11v">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder11v&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" height="150" />
-</a>
-<a href="https://github.com/coder11v">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder11v&layout=compact&theme=transparent&hide_border=true" height="150" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder11v&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder11v&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder11v&theme=default&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder11v&theme=default)
 
 ---
 
