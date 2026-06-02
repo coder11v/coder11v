@@ -13,7 +13,7 @@ Aspiring Developer • Tech Enthusiast • Creative Thinker
 ---
 
 <blockquote style="border-left: 3px solid #1ec88f; padding-left: 12px; margin: 0; font-style: italic;">
-“I'm a coding whiz kid, always on the hunt for the next big challenge.<br>
+“I'm a coding whiz, always on the hunt for the next big challenge.<br>
 I love turning complex problems into simple, elegant solutions.”
 </blockquote>
 
