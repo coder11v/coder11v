@@ -58,6 +58,8 @@ I love turning complex problems into simple, elegant solutions.”
 
 ## My latest thoughts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing astro-erudite v2](https://astro-erudite.vercel.app/blog/introducing-v2/)
+- [v1 Posts](https://astro-erudite.vercel.app/blog/v1-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 
