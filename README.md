@@ -56,7 +56,9 @@ I love turning complex problems into simple, elegant solutions.”
 </div>
 
 
-
+## My latest thoughts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Featured Projects
