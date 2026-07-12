@@ -19,4 +19,19 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.veerbajaj.com/rss.xml"
+
+          max_post_count: 5
+          title_max_length: 600
+
+          date_format: "mmm dd, yyyy"
+
+
+          template: "- [$title]($url) — *$date*"
+
+
+
           commit_message: "docs: update latest blog posts [skip ci]"
+
+          committer_username: "vib-bot"
+
+          committer_email: "actions@github.com"
