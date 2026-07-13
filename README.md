@@ -57,10 +57,7 @@ I love turning complex problems into simple, elegant solutions.”
 
 
 ## My latest thoughts:
-<!-- BLOG-POST-LIST:START -->
-- [Introducing astro-erudite v2](https://astro-erudite.vercel.app/blog/introducing-v2/)
-- [v1 Posts](https://astro-erudite.vercel.app/blog/v1-posts/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [First Entry: Welcome to My Blog](https://blog.veerbajaj.com/blog/welcome/) — *Jul 11, 2026*<!-- BLOG-POST-LIST:END -->
 
 
 ## Featured Projects
