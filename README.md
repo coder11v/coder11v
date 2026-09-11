@@ -62,17 +62,17 @@ I love turning complex problems into simple, elegant solutions.”
 
 ## Featured Projects
 
-### • ViBro — AI Chatbot  
-An advanced Python chatbot with tools, RAG, and a modular architecture.  
-Coming Soon!
-
 ### • No Long Links  
 A URL shortener for GitHub Pages utilizing free database storage via Firestore.  
 [Website](https://l.veerbajaj.com) [Repo](https://github.com/coder11v/nolonglinks)
 
 ### • ContextWindow  
-A multi-model comparison platform for LLMs, featuring Flappy Bird generation benchmarks.  
+A multi-model comparison platform for LLMs, featuring game generation benchmarks.  
 [Website](https://contextwindow.veerbajaj.com)
+
+### • mycode  
+A simple agent harness and models.
+Coming soon.
 
 ## Organizations
 
